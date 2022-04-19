@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+  max-height: fit-content;
+  text-align: center;
+  /* border: 1px solid red; */
+  padding-top: 1%;
+  background-color: aqua;
+}
+
+.box {
+  margin: auto;
+  border: 5px solid red;
+  width: 30%;
+  height: 100px;
+}
